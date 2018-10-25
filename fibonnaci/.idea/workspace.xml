@@ -19,7 +19,7 @@
       <file leaf-file-name="main.rs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main.rs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="210">
               <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
             </state>
           </provider>
@@ -156,12 +156,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540132715451</updated>
-      <workItem from="1540132724825" duration="744000" />
+      <workItem from="1540132724825" duration="1344000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="744000" />
+    <option name="totallyTimeSpent" value="1344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="49" y="27" width="1317" height="741" extended-state="4" />
@@ -175,7 +175,7 @@
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49962035" visible="true" weight="0.328594" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49962035" weight="0.328594" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24981017" />
@@ -203,7 +203,7 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main.rs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
+        <state relative-caret-position="210">
           <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
         </state>
       </provider>
